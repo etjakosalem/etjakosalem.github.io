@@ -1,0 +1,97 @@
+body{
+   background-color:  #16365d;
+   font-family: Arial, Helvetica, sans-serif;
+   color: white; 
+}
+
+.head1{
+    text-align: right;
+}
+
+li::marker{
+    color: white;
+}
+
+.l1{
+    color: red;
+    font-style: italic;
+}
+
+.l2{
+    color:rgb(218, 75, 253);    
+    font-weight: 1000;
+}
+
+.col{
+    color: red;
+    text-decoration: underline;
+}
+
+.media{
+    text-align: center;
+    color: red;
+}
+
+.textAlign{
+    text-align: center;
+}
+
+.yellow{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: rgb(31, 226, 31);
+    font-weight: 1000;
+}
+
+.format{
+    background-color: black;
+    width: 50%;
+    padding-bottom: 30px;
+    border-top: red;
+    }
+
+.mid{
+    text-align: center;
+}
+.red{
+    color:red;
+    text-decoration: underline;
+}
+.red1{
+    color:red;
+}
+
+.right{
+    
+}
+
+.green{
+    color: green;
+}
+
+.greenbg{
+    background-color: rgb(14, 231, 14);
+}
+
+.bg{
+    background-color: black;
+    padding: 20px;
+    font-style: italic;
+}
+
+.gal{
+    color: yellow;
+
+    border-bottom: 2px yellow;    
+}
+
+.redbg{
+    background-color: red;
+}
