@@ -1,0 +1,51 @@
+
+.card{
+    width: 25%;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px -1px 14px #888888;
+}
+
+h2, p{
+    margin: 0;
+}
+
+.main{
+    display: flex;
+}
+
+.card-header{
+    display: flex;
+}
+.card-header{
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.btn{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 100px;
+}
+
+.btn:hover{
+    background-color: purple;
+    cursor: pointer;
+}
+
+.card:hover{
+    background-color: #888888;
+    
+}
+
+.material-symbols-outlined{
+    animation: backwards;
+    animation-duration: 2s;
+}
